@@ -30,3 +30,18 @@
     }
   ]
 }
+Air-Odysha-GeoFS/          <-- your main repository folder
+│
+├─ liveries.json           <-- the JSON file I just made
+│
+├─ thumbnails/             <-- folder for small preview images
+│   ├─ normal.png
+│   ├─ retro.png
+│   └─ india79.png
+│
+└─ textures/               <-- folder for the actual plane textures
+    ├─ normal.png
+    ├─ retro.png
+  └─ india79.png
+•	"thumbnail": "https://raw.githubusercontent.com/<YourUsername>/Air-Odysha-GeoFS/main/thumbnails/normal.png" → points to the small preview image.
+	•	"texture": "https://raw.githubusercontent.com/<YourUsername>/Air-Odysha-GeoFS/main/textures/normal.png"
