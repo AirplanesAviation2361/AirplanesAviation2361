@@ -1,0 +1,4 @@
+thumbnails/
+    normal.png
+    retro.png
+    india79.png
