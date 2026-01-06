@@ -27,22 +27,68 @@
       "thumbnail": "https://raw.githubusercontent.com/<YourUsername>/Air-Odysha-GeoFS/main/thumbnails/india79.png",
       "texture": "https://raw.githubusercontent.com/<YourUsername>/Air-Odysha-GeoFS/main/textures/india79.png",
       "description": "Special livery celebrating 79 years of India’s independence."
+
+		{
+  "name": "Odysha Airlines",
+  "icao": "ODY",
+  "callsign": "ODYSHA",
+  "website": "https://www.odysha-airlines.com",
+  "liveries": [
+    {
+      "id": "odysha_normal",
+      "title": "Normal Livery",
+      "aircraft": "A320",
+      "thumbnail": "https://raw.githubusercontent.com/ChatGPT-Example/Air-Odysha-GeoFS/main/thumbnails/normal.png",
+      "texture": "https://raw.githubusercontent.com/ChatGPT-Example/Air-Odysha-GeoFS/main/textures/normal.png",
+      "description": "Standard Odysha Airlines livery for everyday flights."
+    },
+    {
+      "id": "odysha_retro",
+      "title": "Retro Livery",
+      "aircraft": "A320",
+      "thumbnail": "https://raw.githubusercontent.com/ChatGPT-Example/Air-Odysha-GeoFS/main/thumbnails/retro.png",
+      "texture": "https://raw.githubusercontent.com/ChatGPT-Example/Air-Odysha-GeoFS/main/textures/retro.png",
+      "description": "Classic retro design inspired by the original Odysha Airlines look."
+    },
+    {
+      "id": "odysha_india79",
+      "title": "India’s 79 Years Livery",
+      "aircraft": "A320",
+      "thumbnail": "https://raw.githubusercontent.com/ChatGPT-Example/Air-Odysha-GeoFS/main/thumbnails/india79.png",
+      "texture": "https://raw.githubusercontent.com/ChatGPT-Example/Air-Odysha-GeoFS/main/textures/india79.png",
+      "description": "Special livery celebrating 79 years of India’s independence."
     }
   ]
 }
-Air-Odysha-GeoFS/          
-│
-├─ liveries.json           
-│
-├─ thumbnails/             
-│   ├─ normal.png
-│   ├─ retro.png
-│   └─ india79.png
-│
-└─ textures/               
-    ├─ normal.png
-    ├─ retro.png
-  └─ india79.png
-•	"thumbnail": "https://raw.githubusercontent.com/<YourUsername>/Air-Odysha-GeoFS/main/thumbnails/normal.png"
-
-	•	"texture": "https://raw.githubusercontent.com/<YourUsername>/Air-Odysha-GeoFS/main/textures/normal.png"
+	  {
+  "name": "Odysha Airlines",
+  "icao": "ODY",
+  "callsign": "ODYSHA",
+  "website": "https://www.odysha-airlines.com",
+  "liveries": [
+    {
+      "id": "odysha_normal",
+      "title": "Normal Livery",
+      "aircraft": "A320",
+      "thumbnail": "https://raw.githubusercontent.com/ChatGPT-Example/Air-Odysha-GeoFS/main/thumbnails/normal.png",
+      "texture": "https://raw.githubusercontent.com/ChatGPT-Example/Air-Odysha-GeoFS/main/textures/normal.png",
+      "description": "Standard Odysha Airlines livery for everyday flights."
+    },
+    {
+      "id": "odysha_retro",
+      "title": "Retro Livery",
+      "aircraft": "A320",
+      "thumbnail": "https://raw.githubusercontent.com/ChatGPT-Example/Air-Odysha-GeoFS/main/thumbnails/retro.png",
+      "texture": "https://raw.githubusercontent.com/ChatGPT-Example/Air-Odysha-GeoFS/main/textures/retro.png",
+      "description": "Classic retro design inspired by the original Odysha Airlines look."
+    },
+    {
+      "id": "odysha_india79",
+      "title": "India’s 79 Years Livery",
+      "aircraft": "A320",
+      "thumbnail": "https://raw.githubusercontent.com/ChatGPT-Example/Air-Odysha-GeoFS/main/thumbnails/india79.png",
+      "texture": "https://raw.githubusercontent.com/ChatGPT-Example/Air-Odysha-GeoFS/main/textures/india79.png",
+      "description": "Special livery celebrating 79 years of India’s independence."
+    }
+  ]
+}
